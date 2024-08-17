@@ -41,3 +41,5 @@ export const KeypadDef = {
     [KeypadTypeDef.DOT]: ".",
     [KeypadTypeDef.EQUALS]: "=",
 }
+
+export const DEFAULT_VALUE = KeypadDef[KeypadTypeDef.K0];
