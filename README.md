@@ -30,3 +30,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Analyze
 
 ![react-caculator](docs/images/react-caculator.png)
+
+## preview
+
+I have deployed on online website. See more in [my-calculator](https://ustinian-wang.github.io/my-calculator/)
